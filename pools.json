@@ -4,7 +4,8 @@
 	  "url": "https://minermore.com",
 	  "searchStrings": [
 		"RMuKTGvm1PSfcZKoJYv1G1mjGvRMLtczMY",
-		"RTraysiMMzReEQHKtGtgRtVdGjg4vRA36d"
+		"RTraysiMMzReEQHKtGtgRtVdGjg4vRA36d",
+		"RRwo337UFFDrjosxaK92YrT84LQbiRk7ua"
 	  ]
 	},
 	{
@@ -97,7 +98,8 @@
 	  "url": "http://yunpools.com",
 	  "searchStrings": [
 		"RVA9mH5MYq9sJV3GP2TgPMM9gkJgUzcpaz",
-		"RDVw72XGsBnvuJ7DXh7qRadEWi4AxinFAL"
+		"RDVw72XGsBnvuJ7DXh7qRadEWi4AxinFAL",
+		"RL2vSwda34HjCvwfxiJaNXzGjxxHtdVBS7"
 	  ]
 	},
 	{
@@ -453,7 +455,8 @@
 	  "searchStrings": [
 		"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
 		"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
-		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
+		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6",
+		"RHMKPy3Ana5NyzTgo6qWXXMiHAxzPyMgG1"
 	  ]
 	},
 	{
@@ -543,6 +546,26 @@
 	  "searchStrings": [
 		"RWZCmqycEjnmtEiXHuHwmUtTnKmEH6b8Xp"
 	  ]
+	},
+	{
+	  "poolName": "Blocksmith",
+	  "url": "https://rvn.bsmith.io/",
+	  "searchStrings": [
+		"RFWiybaSLQ6vLmEBrtWvuFKhRDPwySfVxm"
+	  ]
+	},
+	{
+	  "poolName": "MintPond",
+	  "url": "https://mintpond.com/#!/ravencoin",
+	  "searchStrings": [
+	  "RFWxjhqBWWYvUaMn1ULfQ6u7pittWNcKBp"
+	  ]
+	},
+	{
+	  "poolName": "Flypool",
+	  "url": "https://ravencoin.flypool.org/",
+	  "searchStrings": [
+	  "RTpp8G7Y5f9HZ1iGNz1gtbWazwnHvoHCxK"
+	  ]
 	}
-  ]
-  
+]
